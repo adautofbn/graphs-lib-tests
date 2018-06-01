@@ -1,0 +1,4 @@
+# removendo arquivos do intellij
+out/*
+.idea/*
+*.class
