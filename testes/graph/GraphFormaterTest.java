@@ -1,16 +1,14 @@
-package main;
+package graph;
 
-import graph.Edge;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class EdgeTest {
-
+public class GraphFormaterTest {
 
     @Test
     public void create() {
-        Edge edge = new Edge(1,2);
+        GraphFormatter graphReader = new GraphFormatter();
         fail("Não rola");
     }
 }

@@ -1,7 +1,4 @@
-package main;
-
-import graph.Edge;
-import graph.GraphConnectivity;
+package graph;
 
 public class Main {
 
